@@ -1,6 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("My Second change in GIt!");
-        System.out.println("My second Git Change");
+        System.out.println("version B!");
+
     }
 }
